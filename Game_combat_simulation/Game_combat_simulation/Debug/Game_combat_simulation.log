@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Acer\source\repos\Game_combat_simulation\Game_combat_simulation\Source.cpp(24,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Acer\source\repos\Game_combat_simulation\Game_combat_simulation\Source.cpp(21,8): warning C4101: 'ans': unreferenced local variable
+  Game_combat_simulation.vcxproj -> C:\Users\Acer\source\repos\Game_combat_simulation\Debug\Game_combat_simulation.exe
